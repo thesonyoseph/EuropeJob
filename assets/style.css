@@ -1,0 +1,14 @@
+body {
+    scroll-behavior: smooth;
+    font-family: 'Inter', sans-serif;
+}
+
+#hero {
+    background: linear-gradient(135deg, #007BFF 0%, #0dcaf0 100%);
+}
+
+#pricing {
+    background: linear-gradient(135deg, #007BFF 0%, #198754 100%);
+}
+
+.card-title {font-weight: 600;}
